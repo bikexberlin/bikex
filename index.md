@@ -15,12 +15,11 @@ Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen b
 
 **"Ich fahre aber immer Meisterleistung in Rekordzeit"** wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Strecken vorher in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne\*n Buddy und hau rein, wenn's dir bei uns zu langsam wird. 
 
-**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück (Reiserucksack, Bierkasten oder Babyelefant) und ein Zelt zur Nation fährt, so dass du den Rücken frei für Wind hast. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
+**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück (Reiserucksack, Bierkasten oder Babyelefant) und ein Zelt zur Nation fährt, so dass du den Rücken frei für Wind hast. Bitte habt Verständnis, dass wir diesen Service auf dem Rückweg *nicht* anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
 
 **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
-
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
--Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können. [TODO FORMULAR]
+- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können. [TODO FORMULAR]
 - Beschriftet euer Gepäck mit Namen und Adresse. Illegalisierte Substanzen fahren selbstverständlich nicht mit. 
 - Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit. Zusätzlicher Raum würde anderen Reisenden fehlen.
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
@@ -30,7 +29,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - Freitag vormittag [TODO Zeit, Abfahrtsort, GPX und KML-Datei], 45 km ab ...
 - Freitag nachmittag, 24 km ab S Hennigsdorf
 - Vorher registrieren unter: [TODO Formular]
-- Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
+- Bis zu 1 Zelt + 1 Gepäckstück können wir für euch *nach* Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
 
@@ -70,7 +69,3 @@ Please note the following so that we can all have a relaxed journey:
 - Leisurely pace. We don't race and we stay with the slowest riders.
 
 **Get going with us! We look forward to seeing you.**
-
-
-
-
