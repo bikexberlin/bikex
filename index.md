@@ -1,5 +1,4 @@
-# Nation of Gondwana 2021
-## Milan (16.-18.7.) & Kranich (23.-25.7.)
+# Nation of Gondwana 2021 - Milan & Kranich
 
 [English Version](#English)
 ## Deutsch
@@ -16,7 +15,8 @@ Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen b
 
 **"Ich fahre aber immer Meisterleistung in Rekordzeit"** wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Strecken vorher in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne\*n Buddy und hau rein, wenn's dir bei uns zu langsam wird. 
 
-**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück (Reiserucksack, Bierkasten oder Babyelefant) und ein Zelt zur Nation fährt, so dass du den Rücken frei für Wind hast. Bitte habt Verständnis, dass wir diesen Service auf dem Rückweg *nicht* anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
+**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück (Reiserucksack, Bierkasten oder Babyelefant) und ein Zelt zur Nation fährt, so dass du den Rücken frei für Wind hast. 
+Bitte habt Verständnis, dass wir diesen Service auf dem Rückweg *nicht* anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
 
 **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
