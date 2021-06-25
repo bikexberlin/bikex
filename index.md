@@ -1,12 +1,7 @@
-Nation BikX Kommunikation
+# Mit dem Rad zur Nation
 
-
-Newsletter/RR
-Mit dem Fahrrad
-Wer mit einem Fahrrad anreisen will, benötigt hierfür ein Fahrrad-Bundle. Diese bestehen aus jeweils 1 Fahrrad-Garderoben-Ticket und 1 Festivalticket.
-Dieses Jahr gibt es wieder eine überwachte Fahrradgarderobe.
-----------------------------------------------------------------------------------------------------------------
-
+[English Version](#English)
+## Deutsch
 
 Wenn ihr ein Fahrradticket erworben habt, wollen wir euch ermutigen, den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen. Mit "euch" meinen wir auch und vor allem diejenigen unter euch, die unter "Anreise mit dem Fahrrad" bisher verstanden haben, mit dem Fahrrad im Zug nach Nauen zu fahren und nur den letzten Rest auf zwei Rädern zurückzulegen. Gerade in diesem besonderen Jahr wäre es uns aber sehr wichtig, keine übervollen, stickigen Züge zu provozieren.
 
@@ -14,15 +9,15 @@ Wenn ihr ein Fahrradticket erworben habt, wollen wir euch ermutigen, den Trip in
 - Am Freitagfrüh geht es von Nordberlin aus los. Die Strecke ist etwa 45 km lang. 
 - Am Freitagnachmittag begleiten wir euch alternativ auf einer noch deutlich kürzeren Strecke. Vom S-Bahnhof Hennigsdorf aus sind es nur noch läppische 24 km bis ins Glück.
  
-Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
+Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 
-"So sportlich bin ich nicht!", zweifelt ihr jetzt vielleicht. Wir sagen: Doch, bestimmt! Gemeinsam als Gruppe fahren wir in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit. 
+**"So sportlich bin ich nicht!"**, zweifelt ihr jetzt vielleicht. Wir sagen: Doch, bestimmt! Gemeinsam als Gruppe fahren wir in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit. 
 
-"Ich fahre aber immer Meisterleistung in Rekordzeit" wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Strecken vorher in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne*n Buddy und hau rein, wenn's dir bei uns zu langsam wird. 
+**"Ich fahre aber immer Meisterleistung in Rekordzeit"** wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Strecken vorher in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne\*n Buddy und hau rein, wenn's dir bei uns zu langsam wird. 
 
-"Aber wohin mit meinem Festivalgepäck?", fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück (Reiserucksack, Bierkasten oder Babyelefant) und ein Zelt zur Nation fährt, so dass du den Rücken frei für Wind hast. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer*innengemeinschaft einen Platz gefunden haben.
+**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück (Reiserucksack, Bierkasten oder Babyelefant) und ein Zelt zur Nation fährt, so dass du den Rücken frei für Wind hast. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
 
-"Das kostet doch sicher extra!", hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
+**"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
 
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 -Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können. [TODO FORMULAR]
@@ -30,7 +25,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit. Zusätzlicher Raum würde anderen Reisenden fehlen.
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
 
-"Das ist mir alles zu viel Text!" Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
+**"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
 - Zusammen mit dem Fahrrad zur Nation
 - Freitag vormittag [TODO Zeit, Abfahrtsort, GPX und KML-Datei], 45 km ab ...
 - Freitag nachmittag, 24 km ab S Hennigsdorf
@@ -60,11 +55,7 @@ Kommt in Fahrt mit uns! Wir freuen uns auf euch.
 
 
 
-
-
-
-
-ENGLISCH
+## <a name="English"></a> English
 
 If you have purchased a bicycle ticket, we would like to encourage you to begin the trip to the parallel universe by bicycle. By "you" we above all mean those of you who have so far understood "travelling by bicycle" to mean travelling to Nauen by train and only covering the last part of the journey on two wheels. Especially in this special year, however, it would be very important to us not to provoke overcrowded, stuffy trains.
 
