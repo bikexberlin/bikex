@@ -34,26 +34,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
 
-Kommt in Fahrt mit uns! Wir freuen uns auf euch.
-
-
-
-
-Homepage https://pyonen.de/nog2021/anfahrt/
-
-Zusammen mit dem Fahrrad zur Nation
-- Freitag vormittag [TODO Zeit, Abfahrtsort, GPX und KML-Datei], 45 km ab ...
-- Freitag nachmittag, 24 km ab S Hennigsdorf
-- Vorher registrieren unter: [TODO Formular]
-- Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
-- Beschriftet euer Gepäck mit Namen und Adresse
-- Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
-
-Mehr Infos? Hier entlang: [TODO Link]
-
-Kommt in Fahrt mit uns! Wir freuen uns auf euch.
-
-
+**Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
 ## <a name="English"></a> English
 
@@ -65,30 +46,30 @@ If you have purchased a bicycle ticket, we would like to encourage you to begin 
  
 Each group will be accompanied by two experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg's dead spots.
 
-"I'm not that sporty!" you might be thinking. We say: Yes, you are! Together as a group we ride at a leisurely pace, taking pee/drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a sporting feat in record time. 
+**"I'm not that sporty!"** you might be thinking. We say: Yes, you are! Together as a group we ride at a leisurely pace, taking pee/drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a masterly performance in record time. 
 
-"But I always do a masterly performance in record time" is what they say right there in the back. You can! We publish our routes beforehand in various formats. If you want to go fast, find a buddy and hit the road when it gets too slow for you. 
+**"But I always do a masterly performance in record time"** is what we hear you say right there in the back. You can! We publish our routes beforehand in various formats. If you want to go fast, find a buddy and hit the road when it gets too slow for you. 
 
-"But where to put my festival luggage?", you might be asking yourself. We understand. Especially on the outward journey, the luggage situation is often a bit more extensive. Therefore: For those registered tour participants* without professional luggage installation equipment on their bikes, we will organise a luggage transporter that will take a large piece of luggage (travel backpack, beer crate or baby elephant) and a tent to the nation so that you have your back free for wind. Please understand that we cannot offer this service on the way back. We hope that by then you will have either drunk your stuff or found a place for it in the cars of your reality escape helper* community.
+"But where to put my festival luggage?", you might be asking yourself. We understand. Especially on arrival, the luggage situation is often a bit more... extensive. Therefore: For those registered tour participants without professional luggage installation equipment on their bikes, we will organise a luggage transporter that will take one large piece of luggage (travel backpack, beer crate or baby elephant) and a tent to the nation so that it's just you and the lightness on the bike. Please understand that we cannot offer this service on the way back. We hope that by then you will have either drunk your stuff or found a place for it in the cars of your reality escape helper community.
 
-"Surely that costs extra!", we can hear you literally shouting. But no! It's free! We're going anyway and we'd love to have you with us :)
+**"Surely that costs extra!"**, we can hear you literally shouting. But no! It's free! We're going anyway and we'd love to have you with us :)
 
-So that we can all share a relaxed journey together:
--Please register on the following form if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [TODO FORM]
-- Please label your luggage with your name and address. Illegal substances will of course not be transported. 
+Please note the following so that we can all have a relaxed journey:
+-Register on the following form if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [TODO FORM]
+- Label your luggage with your name and address. Of course, illegal substances will not be transported. 
 - Do not bring more than 1 large piece of luggage + tent for the luggage shuttle. Additional space would be missed by other travellers.
-- Check the roadworthiness of your transport before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your little bike, which has been forgotten in the cellar for too long, fit for spring.
+- Check the roadworthiness of your transport device before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your bike fit for spring.
 
-"This is all too much text for me!" We even thought of you! Here's the short version again:
+**"This is all too much text for me!"** We even thought of you! Here's the short version again:
 - Cycling to the nation together
 - Friday morning [TODO time, departure location, GPX and KML file], 45 km from ...
-- Friday afternoon, 24 km from S Hennigsdorf
+- Friday afternoon, 24 km from S Hennigsdorf [TODO time etc.]
 - Register beforehand at: [TODO form]
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
-- Leisurely pace. We don't race and we follow the slowest riders.
+- Leisurely pace. We don't race and we stay with the slowest riders.
 
-Get going with us! We look forward to seeing you.
+**Get going with us! We look forward to seeing you.**
 
 
 
