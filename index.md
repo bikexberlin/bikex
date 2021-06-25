@@ -1,4 +1,4 @@
-# Mit dem Rad zur Nation
+# Nation of Gondwana 2021 - Milan & Kranich
 
 [English Version](#English)
 ## Deutsch
