@@ -1,4 +1,5 @@
-# Nation of Gondwana 2021 - Milan (16.-18.7.) & Kranich (23.-25.7.)
+# Nation of Gondwana 2021
+## Milan (16.-18.7.) & Kranich (23.-25.7.)
 
 [English Version](#English)
 ## Deutsch
